@@ -1,7 +1,7 @@
 ---
 cover: https://mengxiaozhi.github.io/dowload/image/學習歷程00.jpg
 title: 【學習歷程】Ewant創業計畫書撰寫
-date: 2022-01-30 13:05:24
+date: 2022-01-04
 categories:
 - 學習歷程檔案
 tags:

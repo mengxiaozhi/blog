@@ -1,7 +1,7 @@
 ---
 cover: https://mengxiaozhi.github.io/dowload/image/學習歷程00.jpg
 title: 【學習歷程】The Secret Life of Walter Mitty（白日夢冒險王）觀後感
-date: 2022-02-01 17:45:39
+date: 2022-01-30
 categories:
 - 學習歷程檔案
 tags:
