@@ -103,5 +103,5 @@ theme: nexmoe
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'https://github.com/mengxiaozhi/blog.git'
+  repo: 'git@github.com:mengxiaozhi/blog.git'
   brach: 'gh-pages'

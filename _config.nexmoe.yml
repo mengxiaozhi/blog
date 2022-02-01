@@ -1,5 +1,5 @@
 avatar: https://mengxiaozhi.github.io/dowload/image/IMG_0006.JPG # 网站 Logo
-background: # 既是博客的背景，又是文章默认头图
+background: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
   width: 1440
   height: 960
