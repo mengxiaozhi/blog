@@ -1,6 +1,6 @@
 avatar: https://mengxiaozhi.github.io/dowload/image/IMG_0006.JPG # 网站 Logo
-background: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg # 既是博客的背景，又是文章默认头图
-  path: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg
+background: # 既是博客的背景，又是文章默认头图
+  path: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg
   width: 1440
   height: 960
 favicon:
@@ -8,7 +8,7 @@ favicon:
   type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
-  globalToc: false # 开启该功能会自动开启文章 TOC（文章目录） 功能
+  globalToc: true # 开启该功能会自动开启文章 TOC（文章目录） 功能
   darkmode: false # 是否启用暗色主题，可选值（true,false）
 
 imageCDN: # 图片 CDN 功能
@@ -94,36 +94,36 @@ social:
       
 
 # 自定义样式，启用后可在站点的source文件夹下新建custom.css自定义站点样式
-customstyle: false  
+customstyle: true  
 color: # 配色方案，从first到seventh为优先级为1-7的颜色，默认为彩虹配色
   first: # 同时作为主题色
-    r: 255 
-    g: 78
-    b: 106
+    r: 119 
+    g: 224
+    b: 192
   second:
-    r: 255
-    g: 118
-    b: 30
+    r: 119 
+    g: 224
+    b: 192
   third:
-    r: 255
-    g: 185
-    b: 0
+    r: 119 
+    g: 224
+    b: 192
   fourth:
-    r: 51
-    g: 213
-    b: 122
+    r: 119 
+    g: 224
+    b: 192
   fifth:
-    r: 0
-    g: 219
-    b: 255
+    r: 119 
+    g: 224
+    b: 192
   sixth:
-    r: 26
-    g: 152
-    b: 255
+    r: 119 
+    g: 224
+    b: 192
   seventh:
-    r: 144
-    g: 144
-    b: 255
+    r: 119 
+    g: 224
+    b: 192
 
 # 向搜索引擎验证你对站点的所有权，用于向搜索引擎提交 sitemap 和管理站点被搜索引擎收录的情况。
 site_verification: 
@@ -196,4 +196,4 @@ widgetLink: #链接组件
     link : <url>
 
 # 自定义侧边栏尾部内容
-sidebar: '<br><a target="_blank" href="https://galigali.club"><img src="https://mengxiaozhi.github.io/dowload/image/GaliClubLogo2021.png" width="150px"></a><script data-ad-client="ca-pub-2058306854838448" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
+sidebar: '<br><p></p><a target="_blank" href="https://galigali.club"><img src="https://mengxiaozhi.github.io/dowload/image/GaliClubLogo2021.png" width="100px" height="100px"></a><script data-ad-client="ca-pub-2058306854838448" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
