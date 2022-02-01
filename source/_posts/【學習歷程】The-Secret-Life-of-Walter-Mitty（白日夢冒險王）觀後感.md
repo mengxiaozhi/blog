@@ -1,7 +1,7 @@
 ---
 cover: https://mengxiaozhi.github.io/dowload/image/學習歷程00.jpg
-title: 【學習歷程】個人學習歷程網站
-date: 2022-01-30 12:27:17
+title: 【學習歷程】The Secret Life of Walter Mitty（白日夢冒險王）觀後感
+date: 2022-02-01 17:45:39
 categories:
 - 學習歷程檔案
 tags:
@@ -12,10 +12,8 @@ tags:
 修習方式-學期
 開課年級-1
 修課學分-2
-課程-數位科技概論
-成果簡述-為了更好的儲存和展示我的學習歷程，我製作了一個網頁並接入了我團隊的網域去展示我的個人資料和作品，同時這個網頁也是我學習歷程的一部分
-
-{% youtube 0nIwaFhoovg %}
+課程-英語文
+成果簡述-通過這部電影讓我理解到了生活的意義，同時也在觀影的過程中學到了許多新的英文單字，和具有內涵的英文句子。也讓我知道其實英語對話並不難，日常生活中只要敢講大家都會講。
 
 <p></p>
 <div id="Dowload-button" style="
@@ -31,6 +29,6 @@ tags:
     font-size: 20px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     }">
-<a href="https://mengxiaozhi.github.io/dowload/網頁展示.mp4">下載資料</a>
+<a href="https://mengxiaozhi.github.io/dowload/The_Secret_Life_of_Walter_Mitty觀後感.pdf">下載資料</a>
 </div>
 <p></p>
