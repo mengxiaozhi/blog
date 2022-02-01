@@ -12,3 +12,5 @@ abbrlink: about
 - 2019年暑假 - 我使用Site123创建了GaliClub的第一个版本 galigali.tk,用于贩卖漫展门票
 ## 我的团队
 [GaliClub-夏吏幻想社](https://galigali.club)
+## 我的Minecraft
+[苗栗國](https://miaoli.galigali.club)
