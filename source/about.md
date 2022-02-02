@@ -4,7 +4,7 @@ cover: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg
 abbrlink: about
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=520 height=86 src="//music.163.com/outchain/player?type=2&id=536570516&auto=0&height=66"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tw/album/%E3%81%93%E3%81%93%E3%81%8B%E3%82%89-%E3%81%93%E3%81%93%E3%81%8B%E3%82%89/1529218256?i=1529218544&l=en"></iframe>
 
 >发现更大的世界
 >打破名为日常的循环,发现另一个自己
