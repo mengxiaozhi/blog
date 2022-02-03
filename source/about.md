@@ -20,6 +20,9 @@ abbrlink: about
 - 2021年冬季 - 为了Minecraft服务器，第一次开始学习html，css等语言创建网站
 - 2019年暑假 - 我使用Site123创建了GaliClub的第一个版本 galigali.tk,用于贩卖漫展门票
 
+## 我的歌单
+[我的歌单Apple Music](https://music.apple.com/profile/mengxiaozhi)
+
 ## 我的团队
 [GaliClub-夏吏幻想社](https://galigali.club)
 
