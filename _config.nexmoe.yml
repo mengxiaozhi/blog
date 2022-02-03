@@ -17,7 +17,7 @@ imageCDN: # 图片 CDN 功能
   to: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/ # 图片 CDN 域名
   
 # 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
-iconlib: //at.alicdn.com/t/font_3167237_ehnpol8n0yb.css
+iconlib: //at.alicdn.com/t/font_3167237_xtovtegxqmc.css
 # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
 search: 
@@ -38,13 +38,13 @@ cdn: # 这里可以修改站点使用的库的CDN
 menu:
   回到首页: 
     - /
-    - icon-home
+    - icon-city
   文章归档:  # 使用说明：https://docs.nexmoe.com/article/archive
     - /archive.html
-    - icon-container
+    - icon-gongyuan
   关于我:
     - /about.html
-    - icon-info-circle
+    - icon-chezhan
   #我的朋友: 
    # - /PY.html # 使用说明：https://docs.nexmoe.com/article/py
 
