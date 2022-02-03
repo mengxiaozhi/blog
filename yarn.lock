@@ -800,21 +800,7 @@
   dependencies:
     "hexo-generator-json-content" "^4.2.3"
 
-"hexo-util@^2.0.0", "hexo-util@^2.1.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0":
-  "integrity" "sha512-l0zkqcg2524KPO84HQe0JROpPlCM/dEnCJaJrZ1qsq+3+/YxhDa0zxiGtUVY1dtrWzOK/V11Zj+UEklhGP8Jeg=="
-  "resolved" "https://registry.npmjs.org/hexo-util/-/hexo-util-2.5.0.tgz"
-  "version" "2.5.0"
-  dependencies:
-    "bluebird" "^3.5.2"
-    "camel-case" "^4.0.0"
-    "cross-spawn" "^7.0.0"
-    "deepmerge" "^4.2.2"
-    "highlight.js" "^10.7.1"
-    "htmlparser2" "^6.0.0"
-    "prismjs" "^1.17.1"
-    "strip-indent" "^3.0.0"
-
-"hexo-util@latest":
+"hexo-util@^2.0.0", "hexo-util@^2.1.0", "hexo-util@^2.4.0", "hexo-util@^2.5.0", "hexo-util@latest":
   "integrity" "sha512-l0zkqcg2524KPO84HQe0JROpPlCM/dEnCJaJrZ1qsq+3+/YxhDa0zxiGtUVY1dtrWzOK/V11Zj+UEklhGP8Jeg=="
   "resolved" "https://registry.npmjs.org/hexo-util/-/hexo-util-2.5.0.tgz"
   "version" "2.5.0"
@@ -1170,12 +1156,7 @@
   dependencies:
     "moment" ">= 2.9.0"
 
-"moment@^2.18.0", "moment@^2.22.2", "moment@>= 2.9.0":
-  "integrity" "sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ=="
-  "resolved" "https://registry.npmjs.org/moment/-/moment-2.29.1.tgz"
-  "version" "2.29.1"
-
-"moment@latest":
+"moment@^2.18.0", "moment@^2.22.2", "moment@>= 2.9.0", "moment@latest":
   "integrity" "sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ=="
   "resolved" "https://registry.npmjs.org/moment/-/moment-2.29.1.tgz"
   "version" "2.29.1"

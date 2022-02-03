@@ -105,3 +105,23 @@ deploy:
   type: 'git'
   repo: 'git@github.com:mengxiaozhi/blog.git'
   brach: 'gh-pages'
+
+#Search
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true 
+    date: false 
+    path: true 
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: false
