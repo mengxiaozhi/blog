@@ -83,8 +83,8 @@ social:
   Youtube:
     - https://www.youtube.com/channel/UCZkadYq6vDo0lsKdYdp65wA
     - icon-youtube
-    - rgb(251, 47, 16)
-    - rgba(251, 47, 16, .15
+    - rgb(222, 69, 28)
+    - rgba(222, 69, 28, .15）
   GitHub:
     - https://github.com/mengxiaozhi
     - icon-github
@@ -101,29 +101,29 @@ color: # 配色方案，从first到seventh为优先级为1-7的颜色，默认�
     g: 224
     b: 192
   second:
-    r: 119 
-    g: 224
-    b: 192
+    r: 255
+    g: 118
+    b: 30
   third:
-    r: 119 
-    g: 224
-    b: 192
+    r: 255
+    g: 185
+    b: 0
   fourth:
-    r: 119 
-    g: 224
-    b: 192
+    r: 51
+    g: 213
+    b: 122
   fifth:
-    r: 119 
-    g: 224
-    b: 192
+    r: 0
+    g: 219
+    b: 255
   sixth:
-    r: 119 
-    g: 224
-    b: 192
+    r: 26
+    g: 152
+    b: 255
   seventh:
-    r: 119 
-    g: 224
-    b: 192
+    r: 144
+    g: 144
+    b: 255
 
 # 向搜索引擎验证你对站点的所有权，用于向搜索引擎提交 sitemap 和管理站点被搜索引擎收录的情况。
 site_verification: 
