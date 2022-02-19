@@ -11,6 +11,7 @@ abbrlink: about
 >所向往未曾见过的景色就是比宇宙更远的地方
 
 ## 事件轴
+- 2022年2月19日 - 将托管商从Github迁移至Netlify，依旧保存至Github，但不负责正式的网页
 - 2022年01月30日 - 用了一早上开始学习Hexo，markdown,下午成功将博客迁移至 Hexo,学习历程的相关内容也进行的迁移
 - 2022年01月22日 - 用纯html和css创建了用于展示学习历程的网站
 - 2021年春季 - 使用Wordpress创建了博客——GaliClub,发布自己的教程和GaliClub的相关资讯，并注册了galigali.club的域名
