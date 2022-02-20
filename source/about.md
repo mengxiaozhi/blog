@@ -18,6 +18,11 @@ abbrlink: about
 - 2020年冬季 - 为了Minecraft服务器，第一次开始学习html，css等语言创建网站
 - 2019年暑假 - 我使用Site123创建了GaliClub的第一个版本 galigali.tk,用于贩卖漫展门票
 
+## 核心驱动力
+1.基于Hexo静态网页框架构建
+2.页面由Nexmoe主题修改而来
+3.源码存放于Github
+
 ## 我的歌单
 [我的歌单Apple Music](https://music.apple.com/profile/mengxiaozhi)
 
