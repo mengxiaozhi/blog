@@ -8,6 +8,6 @@ tags:
 ---
 ## 解决方案合集
 1.使用 Gitee & Github 双向部署
-2.使用Netlify
+2.使用Netlify & Vercel
 3.使用云服务器
-## 后续持续编写中
+## 使用 Gitee & Github 双向部署
