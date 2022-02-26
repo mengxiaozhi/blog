@@ -1,4 +1,5 @@
 ---
+cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/202007091224368542_640.jpg
 title: 大陆地区网络连接Github page缓慢问题个人解决方案整理
 date: 2022-02-19 14:51:11
 categories: 开发
