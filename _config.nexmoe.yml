@@ -36,16 +36,16 @@ cdn: # 这里可以修改站点使用的库的CDN
     js: https://cdn.jsdelivr.net/npm/valine
 
 menu:
-  回到首页: 
+  首页: 
     - /
     - icon-city
   文章归档:  # 使用说明：https://docs.nexmoe.com/article/archive
     - /archive.html
     - icon-gongyuan
-  图片库:
+  资源库:
     - /library.html  
     - icon-tushuguan
-  关于我:
+  关于:
     - /about.html
     - icon-chezhan
   #我的朋友: 
