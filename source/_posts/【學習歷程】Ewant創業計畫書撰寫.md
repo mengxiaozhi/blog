@@ -15,7 +15,7 @@ tags:
 每週節數-3
 開設週數-6
 內容簡述-創業計畫書撰寫這門課讓我學到了商業上的各類手法和主要目標。我認識到了思維方式的重要性，學會了改變想法，創新思路。課程中的老師也推薦了許多改變自身想法的書籍，如盒內思考，航向成功企業的55種商業模式等。
-
+[0220104修課通過證明](https://github.com/mengxiaozhi/dowload/raw/gh-pages/20220104修課通過證明.png)
 <p></p>
 <div id="Dowload-button" style="
     border-radius:15px;
@@ -30,6 +30,6 @@ tags:
     font-size: 20px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     }">
-<a href="https://mengxiaozhi.github.io/dowload/image/20220104修課通過證明.png">下載資料</a>
+<a href="https://github.com/mengxiaozhi/dowload/raw/gh-pages/20220104修課通過證明.png>下載資料</a>
 </div>
 <p></p>

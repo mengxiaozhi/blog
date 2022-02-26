@@ -1,6 +1,6 @@
 ---
 title: 关于我
-cover: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg
+cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/u25.jpg
 abbrlink: about
 ---
 
