@@ -1,6 +1,6 @@
 avatar: https://mengxiaozhi.github.io/dowload/image/IMG_0006.JPG # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-  path: https://mengxiaozhi.github.io/dowload/image/67380863_p0_master1200.jpg
+  path: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/o_1e8p92oupj7qrm710v4c0o10le0.png
   width: 1440
   height: 960
 favicon:
