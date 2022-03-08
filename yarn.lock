@@ -1680,6 +1680,14 @@
   dependencies:
     "function-bind" "^1.1.1"
 
+"hexo-abbrlink@^2.2.1":
+  "integrity" "sha512-yvazN7bbrIb7p8QU3nJ/8fbDmir1mFroYvUYcJz5xpc6DtszKggschmqZg6WNUdjhDBFyDwksrIUfwQnw0OOuA=="
+  "resolved" "https://registry.npmjs.org/hexo-abbrlink/-/hexo-abbrlink-2.2.1.tgz"
+  "version" "2.2.1"
+  dependencies:
+    "hexo-front-matter" "^1.0.0"
+    "hexo-fs" "^3.1.0"
+
 "hexo-bunyan@^1.0.0":
   "integrity" "sha512-RymT8Ck+K77mLt9BEYNb4uyfC7RIQnU5N3laXowMrS28jj2h89VHJCOnhV00mmta4fHRqNa07kP1Hrn17nvMkQ=="
   "resolved" "https://registry.npmjs.org/hexo-bunyan/-/hexo-bunyan-1.0.0.tgz"
@@ -1716,6 +1724,13 @@
     "hexo-util" "^2.1.0"
     "moment" "^2.18.0"
     "nunjucks" "^3.2.1"
+
+"hexo-front-matter@^1.0.0":
+  "integrity" "sha512-Hn8IIzgWWnxYTekrjnA0rxwWMoQHifyrxKMqVibmFaRKf4AQ2V6Xo13Jiso6CDwYfS+OdA41QS5DG1Y+QXA5gw=="
+  "resolved" "https://registry.npmjs.org/hexo-front-matter/-/hexo-front-matter-1.0.0.tgz"
+  "version" "1.0.0"
+  dependencies:
+    "js-yaml" "^3.13.1"
 
 "hexo-front-matter@^2.0.0":
   "integrity" "sha512-IR3tjAyK2Ga/0a/WDAoNy5+n3ju2/mkuAsCDEeGgGLf5+7kkiOkkG/FrnueuYgz0h2MPfWDLBiDsSTCmB0sLCA=="

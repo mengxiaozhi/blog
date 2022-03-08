@@ -56,9 +56,9 @@ widgets:
 - social
 - category
 - tagcloud
-# - archive #settings: widgetAchive
-# - recent_posts
-# - link #settings: widgetLink
+- archive #settings: widgetAchive
+- recent_posts
+#- link #settings: widgetLink
 
 maxTagcloud: 0  # 标签云组件显示的标签数量，0 表示不限制
 

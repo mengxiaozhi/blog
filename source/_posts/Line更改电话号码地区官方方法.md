@@ -1,11 +1,13 @@
 ---
-cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/369a2d38-6966-41b3-a789-b4bff8e81534.jpg
+cover: >-
+  https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/369a2d38-6966-41b3-a789-b4bff8e81534.jpg
 title: Line更改电话号码地区官方方法
-date: 2022-02-26 22:47:33
 categories: 生活
 tags:
-- Line
-- 数字移民
+  - Line
+  - 数字移民
+abbrlink: 24615
+date: 2022-02-26 22:47:33
 ---
 ・帳號內設定的電話號碼若欲更換為其他國家的電話號碼時，需將LINE應用程式刪除後並重新下載執行登入帳號的操作，才能變更完成。
 ・點選「以電話號碼登入」後，請輸入「新設定的電話號碼」，在重新登入LINE帳號的同時系統將會一併變更電話號碼。

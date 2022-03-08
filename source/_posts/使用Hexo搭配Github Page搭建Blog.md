@@ -1,11 +1,13 @@
 ---
-cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/1*zGn8GFhpCNdbO3wSvJO2JQ.jpeg
+cover: >-
+  https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/1*zGn8GFhpCNdbO3wSvJO2JQ.jpeg
 title: 使用Hexo搭配Github Page搭建Blog
-date: 2022-01-31
 categories: 开发
 tags:
-- 前端
-- Hexo
+  - 前端
+  - Hexo
+abbrlink: 46103
+date: 2022-01-31 00:00:00
 ---
 ## 准备工具
 1.安装node.js

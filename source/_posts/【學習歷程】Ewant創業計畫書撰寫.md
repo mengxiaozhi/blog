@@ -1,11 +1,12 @@
 ---
-cover: https://mengxiaozhi.github.io/dowload/image/學習歷程00.jpg
+cover: 'https://mengxiaozhi.github.io/dowload/image/學習歷程00.jpg'
 title: 【學習歷程】Ewant創業計畫書撰寫
-date: 2022-01-04
 categories:
-- 學習歷程檔案
+  - 學習歷程檔案
 tags:
-- 學習歷程
+  - 學習歷程
+abbrlink: 56845
+date: 2022-01-04 00:00:00
 ---
 學生-劉訊志
 學期-110

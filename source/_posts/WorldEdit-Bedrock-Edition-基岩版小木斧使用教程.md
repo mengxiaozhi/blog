@@ -1,11 +1,13 @@
 ---
-cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/worrld-edit-minecraft.png
+cover: >-
+  https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/worrld-edit-minecraft.png
 title: 'WorldEdit: Bedrock Edition 基岩版小木斧使用教程'
-date: 2022-02-03 15:03:25
 categories:
-- 游戏
+  - 游戏
 tags:
-- Minecraft
+  - Minecraft
+abbrlink: 24155
+date: 2022-02-03 15:03:25
 ---
 此版本仅限基岩版（包括手机，Windows 10以上PC）（疑似可使用Xbox，添加Realms后可在Switch和Playstaion）
 下载地址：https://mcpedl.com/worldedit-be-addon/
