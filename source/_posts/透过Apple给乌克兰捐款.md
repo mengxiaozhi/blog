@@ -11,7 +11,7 @@ abbrlink: 991
 date: 2022-03-06 13:06:56
 ---
 ## 愿世界和平
-[Apple捐款地址](https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/buyCharityGiftWizard?charity=10220)
+[Apple捐款地址(仅限Apple设备打开)](itmss://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/buyCharityGiftWizard?charity=10220)
 ## 如何通过Apple捐款
 在等待Apple 2022春季发布会的同时刚好在Apple美国的官网看到了Apple和联合国合作的捐款渠道，可以直接从Apple ID中付款，非常的方便，而且因为是透过Apple付款的，收款方并不会收到你的个人信息。
 ![Apple美国官网](https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/Screen%20Shot%202022-03-06%20at%2010.14.17%20AM.png)
