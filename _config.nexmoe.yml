@@ -17,7 +17,7 @@ imageCDN: # 图片 CDN 功能
   to: https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/ # 图片 CDN 域名
   
 # 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
-iconlib: //at.alicdn.com/t/font_3167237_lv2olm2qxt.css
+iconlib: //at.alicdn.com/t/font_3167237_ulpeyrt7mho.css
 # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
 search: 
@@ -78,6 +78,11 @@ social:
     - icon-twitter
     - rgb(28, 135, 235)
     - rgba(28, 135, 235, .15)  
+  Mail:
+    - mailto:menngxiaozhi@galigali.club
+    - icon-emailfilling
+    - rgb(30, 123, 213)
+    - rgba(30, 123, 213, .15)
   哔哩哔哩:
     - https://space.bilibili.com/51414889
     - icon-bilibili
