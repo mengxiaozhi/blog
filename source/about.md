@@ -23,6 +23,9 @@ abbrlink: about
 2. 页面由Nexmoe主题修改而来
 3. 源码存放于Github
 
+## 赞助我
+以太坊：0xaDE0816ef03Efddc673Eb2597509708f32e6d6F8
+
 ## 我的歌单
 [我的歌单Apple Music](https://music.apple.com/profile/mengxiaozhi)
 
