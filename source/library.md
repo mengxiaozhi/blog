@@ -1,6 +1,16 @@
-{% gallery %}
-![1](https://github.com/mengxiaozhi/dowload/raw/gh-pages/image/62464(1).gif)
-![1](https://github.com/mengxiaozhi/dowload/raw/gh-pages/image/Black.gif)
-![1](https://github.com/mengxiaozhi/dowload/raw/gh-pages/image/Black2.gif)
-![1](https://github.com/mengxiaozhi/dowload/raw/gh-pages/image/obscene.gif)
-{% endgallery %}
+## 名言收录
+### 比宇宙更远的地方
+{% meting "4963965892" "netease" "playlist" %}
+
+>乘上与平时相反的电车，为了去见从未见过的风景
+>当你无法回头的时候，才是真正的旅途
+>所向往未曾见过的景色就是比宇宙更远的地方
+### 言叶之庭
+{% meting "26418808" "netease" "song" %}
+
+>回望当初，那时我一定也一直在，训练自己迈步。如果有一天，能够走得更稳更远了，就去见她吧
+
+### 十字路口
+{% meting "28613684" "netease" "song" %}
+
+>我既不期望获得幸福，也不需要什么信誓旦旦的约定，我自有其他期许，希望有一日能够远行，奔赴更加缥缈的远方
