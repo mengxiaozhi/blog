@@ -39,6 +39,9 @@ menu:
   首页: 
     - /
     - icon-city
+  學習歷程專區:
+    - /study
+    - 
   文章归档:  # 使用说明：https://docs.nexmoe.com/article/archive
     - /archive.html
     - icon-gongyuan
