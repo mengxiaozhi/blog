@@ -4,8 +4,10 @@ categories:
   - 开发
 tags:
   - 前端
-date: 2022-07-16
-cover: https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/ix8aos7bqnchubfaep4w2idifls21tym_0.png
+cover: >-
+  https://raw.githubusercontent.com/mengxiaozhi/dowload/gh-pages/image/ix8aos7bqnchubfaep4w2idifls21tym_0.png
+abbrlink: 512245165
+date: 2022-07-16 00:00:00
 ---
 
 提前声明：
